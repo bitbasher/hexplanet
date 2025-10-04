@@ -3,6 +3,9 @@ hexplanet
 
 HexPlanet Demo
 
+the repo included glew32.dll and glut32.dll so i will need to update to 64 bit libraries 
+Original message follows
+
 By Joel Davis -- joeld42@gmail.com
 
 This is a demo of a technique to tile a spherical planet with hex tiles, for example for use in a strategy game. 
